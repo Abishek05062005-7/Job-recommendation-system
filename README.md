@@ -28,7 +28,9 @@ This project recommends jobs based on user skills using Natural Language Process
 4. Top matching jobs are displayed
 
 ## 📷 Screenshots
-(Add Streamlit app screenshots here)
+<img width="1333" height="586" alt="image" src="https://github.com/user-attachments/assets/5d4513c9-7d0f-4307-9035-896df89d65a4" />
+
+
 
 ## 👨‍💻 Author
 Abishek S
